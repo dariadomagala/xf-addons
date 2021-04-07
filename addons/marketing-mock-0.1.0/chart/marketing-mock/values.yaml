@@ -8,5 +8,5 @@ api:
     prefix: marketing
 
 image:
-    name: eu.gcr.io/kyma-project/xf-application-mocks/marketing-mock:0.4.5
+    name: eu.gcr.io/kyma-project/xf-application-mocks/marketing-mock-2:0.4.5
     pullPolicy: Always

@@ -8,9 +8,9 @@ readonly NC='\033[0m' # No Color
 
 function checkAssets() {
         echo "Checking addons"
-        helm lint ./addons/marketing-mock-0.1.0/chart/marketing-mock/ --values ./addons/marketing-mock-0.1.0/plans/default/values.yaml
-        helm lint ./addons/commerce-mock-0.1.0/chart/commerce-mock/ --values ./addons/commerce-mock-0.1.0/plans/default/values.yaml
-        helm lint ./addons/c4c-mock-0.1.0/chart/c4c-mock/ --values ./addons/c4c-mock-0.1.0/plans/default/values.yaml
+        helm lint ./addons/marketing-mock-2-0.1.0/chart/marketing-mock-2/ --values ./addons/marketing-mock-2-0.1.0/plans/default/values.yaml
+        helm lint ./addons/commerce-mock-2-0.1.0/chart/commerce-mock-2/ --values ./addons/commerce-mock-2-0.1.0/plans/default/values.yaml
+        helm lint ./addons/c4c-mock-2-0.1.0/chart/c4c-mock-2/ --values ./addons/c4c-mock-2-0.1.0/plans/default/values.yaml
        
         echo "Processing done"
 }

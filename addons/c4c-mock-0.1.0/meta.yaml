@@ -1,4 +1,4 @@
-name: c4c-mock
+name: c4c-mock-2
 version: 0.1.0
 description: "Lightweight substitute of SAP Cloud for Customer based on APIs only. It is not recommended for production scenarios."
 id: faebbe18-0a84-11e9-ab14-d663bd873d93
@@ -8,7 +8,7 @@ labels:
   preview: "true"
 providerDisplayName: SAP
 longDescription:  "Lightweight substitute of SAP Cloud for Customer based on APIs only. It is not recommended for production scenarios."
-documentationURL: https://github.com/SAP/xf-application-mocks/tree/master/c4c-mock
-imageURL: https://rawcdn.githack.com/SAP/xf-addons/master/addons/c4c-mock-0.1.0/icon.svg
+documentationURL: https://github.com/SAP/xf-application-mocks/tree/master/c4c-mock-2
+imageURL: https://rawcdn.githack.com/SAP/xf-addons/master/addons/c4c-mock-2-0.1.0/icon.svg
 bindable: false
 provisionOnlyOnce: true

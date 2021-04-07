@@ -8,5 +8,5 @@ api:
     prefix: c4c
     
 image:
-    name: eu.gcr.io/kyma-project/xf-application-mocks/c4c-mock:0.4.5
+    name: eu.gcr.io/kyma-project/xf-application-mocks/c4c-mock-2:0.4.5
     pullPolicy: Always

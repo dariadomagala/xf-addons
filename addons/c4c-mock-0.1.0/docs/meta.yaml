@@ -1,6 +1,6 @@
 docs:
   - template:
-      displayName: "c4c-mock-0.1.0"
+      displayName: "c4c-mock-2-0.1.0"
       description: "SAP Cloud for Customer Mock documentation"
       sources:
         - type: markdown
