@@ -2,7 +2,7 @@ console:
     enabled: true
     navigation:
         category: "Mocks"
-        name: "SAP Commerce Cloud"
+        name: "SAP Commerce Cloud 222222222"
 
 api:
     prefix: commerce

@@ -2,7 +2,7 @@ console:
     enabled: true
     navigation:
         category: "Mocks"
-        name: "SAP Marketing Cloud"
+        name: "SAP Marketing Cloud 2222222"
 
 api:
     prefix: marketing

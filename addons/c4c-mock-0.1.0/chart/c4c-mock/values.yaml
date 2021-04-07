@@ -2,7 +2,7 @@ console:
     enabled: true
     navigation:
         category: "Mocks"
-        name: "SAP Cloud for Customers"
+        name: "SAP Cloud for Customers 22222222222"
 
 api:
     prefix: c4c
